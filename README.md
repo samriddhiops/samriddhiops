@@ -27,7 +27,7 @@ I'm a Computer Science student interested in software development, problem-solvi
 
 ### Connect with me
 - GitHub: [@samriddhiops](https://github.com/samriddhiops)
-<!--
+- linkdin: www.linkedin.com/in/samriddhi-mishra-403bb33a9
 **samriddhiops/samriddhiops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
